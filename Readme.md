@@ -31,7 +31,7 @@ To compile Cub3D, follow these steps:
 1. Clone the Cub3D repository to your local machine:
 
    ```
-   git clone <repository_url>
+   git clone git@github.com:Exerath-42/cub3D.git
    ```
 
 2. Change the directory to the Cub3D project folder:
