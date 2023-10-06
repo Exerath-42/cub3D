@@ -58,6 +58,8 @@ Once the program is compiled, you can run it using the following command:
 
 Replace `<map_file.cub>` with the path to your scene description file in `.cub` format. The program will load the specified map and render the 3D maze.
 
+You can also use pre-made maps located in the `/maps` directory.
+
 ## Controls
 
 - **Movement**: Use the WASD keys to move through the maze.
